@@ -1,0 +1,20 @@
+[
+  {
+    "id": "calculator",
+    "name": "Calculator",
+    "desc": "A simple and elegant calculator for your daily math needs",
+    "iconUrl": "https://app.cdn.cgamz.online/icons/calculator.png"
+  },
+  {
+    "id": "notes",
+    "name": "Notes",
+    "desc": "Take quick notes and keep your thoughts organized",
+    "iconUrl": "https://app.cdn.cgamz.online/icons/notes.png"
+  },
+  {
+    "id": "weather",
+    "name": "Weather",
+    "desc": "Check the current weather and forecast for your location",
+    "iconUrl": "https://app.cdn.cgamz.online/icons/weather.png"
+  }
+]
