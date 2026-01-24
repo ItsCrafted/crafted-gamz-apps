@@ -5,13 +5,14 @@ export default {
     // CORS headers
     const corsHeaders = {
       'Access-Control-Allow-Origin': '*',
-      'Access-Control-Allow-Methods': 'GET, OPTIONS',
-      'Access-Control-Allow-Headers': 'Content-Type',
+      'Access-Control-Allow-Methods': 'GET, HEAD, POST, OPTIONS',
+      'Access-Control-Allow-Headers': '*',
     };
     
     // Handle preflight OPTIONS request
     if (request.method === 'OPTIONS') {
       return new Response(null, {
+        status: 204,
         headers: corsHeaders
       });
     }
@@ -21,17 +22,26 @@ export default {
       url.pathname = "/index.html";
     }
     
-    // Fetch the asset
-    const response = await env.ASSETS.fetch(url);
-    
-    // Clone the response and add CORS headers
-    const newResponse = new Response(response.body, response);
-    
-    // Add CORS headers to the response
-    Object.keys(corsHeaders).forEach(key => {
-      newResponse.headers.set(key, corsHeaders[key]);
-    });
-    
-    return newResponse;
+    try {
+      // Fetch the asset
+      const response = await env.ASSETS.fetch(url);
+      
+      // Create new response with CORS headers
+      const newHeaders = new Headers(response.headers);
+      newHeaders.set('Access-Control-Allow-Origin', '*');
+      newHeaders.set('Access-Control-Allow-Methods', 'GET, HEAD, POST, OPTIONS');
+      newHeaders.set('Access-Control-Allow-Headers', '*');
+      
+      return new Response(response.body, {
+        status: response.status,
+        statusText: response.statusText,
+        headers: newHeaders
+      });
+    } catch (e) {
+      return new Response('Not Found', { 
+        status: 404,
+        headers: corsHeaders
+      });
+    }
   }
 }
