@@ -1,20 +1,524 @@
 [
   {
-    "id": "calculator",
-    "name": "Calculator",
-    "desc": "A simple and elegant calculator for your daily math needs",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/calculator.png"
+    "id": "soccer-random",
+    "name": "Soccer Random",
+    "desc": "Physics-based soccer game where teams compete with unpredictable ragdoll movements",
+    "longDesc": "Soccer Random features two teams competing in short soccer matches with ragdoll physics creating unpredictable and chaotic gameplay. Each round changes the playing field, ball physics, or player abilities, making every match unique.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/soccer-random.png",
+    "featured": true,
+    "tags": ["Soccer", "Physics", "Multiplayer"],
+    "features": [
+      "Ragdoll physics-based gameplay",
+      "Local multiplayer support",
+      "Randomly changing game conditions",
+      "Quick match format",
+      "Simple one-button controls",
+      "Various stadium environments"
+    ]
   },
   {
-    "id": "notes",
-    "name": "Notes",
-    "desc": "Take quick notes and keep your thoughts organized",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/notes.png"
+    "id": "10-minutes-till-dawn",
+    "name": "10 Minutes Till Dawn",
+    "desc": "Survive waves of enemies for 10 minutes in this bullet heaven shooter",
+    "longDesc": "10 Minutes Till Dawn is a roguelite shooter where you fight increasingly difficult waves of creatures for exactly 10 minutes. Upgrade your character's abilities and weapons as you progress through each run.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/10-minutes.png",
+    "featured": false,
+    "tags": ["Shooter", "Roguelite", "Survival"],
+    "features": [
+      "10-minute timed runs",
+      "Multiple character classes",
+      "Weapon and ability upgrades",
+      "Procedural enemy waves",
+      "Permanent progression system",
+      "High difficulty scaling"
+    ]
   },
   {
-    "id": "weather",
-    "name": "Weather",
-    "desc": "Check the current weather and forecast for your location",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/weather.png"
+    "id": "2048",
+    "name": "2048",
+    "desc": "Sliding tile puzzle where you combine numbered tiles to reach 2048",
+    "longDesc": "2048 is a mathematical puzzle game played on a 4×4 grid. Slide tiles in four directions to combine matching numbers, which merge into their sum. The objective is to create a tile with the number 2048.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/2048.png",
+    "featured": true,
+    "tags": ["Puzzle", "Logic", "Strategy"],
+    "features": [
+      "Simple swipe controls",
+      "Score tracking system",
+      "Undo functionality",
+      "Best score saving",
+      "Endless mode after winning",
+      "Clean minimalist design"
+    ]
+  },
+  {
+    "id": "backrooms",
+    "name": "Backrooms",
+    "desc": "First-person exploration game set in the eerie endless yellow maze",
+    "longDesc": "Backrooms recreates the internet phenomenon of liminal spaces. Navigate through endless yellow rooms with buzzing fluorescent lights while avoiding entities that lurk in the maze. The atmosphere focuses on psychological horror and disorientation.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/backrooms.png",
+    "featured": false,
+    "tags": ["Horror", "Exploration", "Atmospheric"],
+    "features": [
+      "First-person perspective",
+      "Procedurally generated rooms",
+      "Atmospheric sound design",
+      "Entity avoidance mechanics",
+      "Multiple levels to discover",
+      "Psychological horror elements"
+    ]
+  },
+  {
+    "id": "slope",
+    "name": "Slope",
+    "desc": "Fast-paced endless runner where you control a ball down a steep slope",
+    "longDesc": "Slope is an endless running game featuring a ball rolling down a neon-colored slope at increasing speeds. Navigate through obstacles and gaps while the game progressively gets faster, testing your reflexes and timing.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/slope.png",
+    "featured": true,
+    "tags": ["Endless Runner", "Reflexes", "Arcade"],
+    "features": [
+      "Increasing speed mechanics",
+      "Procedural obstacle generation",
+      "Leaderboard system",
+      "Simple left/right controls",
+      "Neon visual aesthetic",
+      "Quick restart functionality"
+    ]
+  },
+  {
+    "id": "retro-bowl",
+    "name": "Retro Bowl",
+    "desc": "American football management and playing game with retro 8-bit graphics",
+    "longDesc": "Retro Bowl combines team management with on-field gameplay. Manage your roster, handle press conferences, and control the offense during games. The pixelated art style and simple controls make it accessible while maintaining strategic depth.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/retro-bowl.png",
+    "featured": true,
+    "tags": ["Sports", "Management", "Football"],
+    "features": [
+      "Team management mechanics",
+      "Offensive gameplay control",
+      "Season progression system",
+      "Player trading and drafting",
+      "Retro pixel art graphics",
+      "Multiple difficulty levels"
+    ]
+  },
+  {
+    "id": "run-3",
+    "name": "Run 3",
+    "desc": "Space-themed endless runner with gravity-defying mechanics across platforms",
+    "longDesc": "Run 3 takes place in space where you run through tunnels that defy gravity. Switch between characters with different abilities, navigate gaps and obstacles, and explore various game modes including story progression.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/run3.png",
+    "featured": false,
+    "tags": ["Endless Runner", "Space", "Platformer"],
+    "features": [
+      "Gravity-switching mechanics",
+      "Multiple playable characters",
+      "Story mode progression",
+      "Infinite mode for endless running",
+      "Unlockable characters and abilities",
+      "Space tunnel environments"
+    ]
+  },
+  {
+    "id": "drift-boss",
+    "name": "Drift Boss",
+    "desc": "One-button drifting game where you navigate winding roads",
+    "longDesc": "Drift Boss simplifies drifting mechanics into a single button control. Hold to turn right and release to go straight, navigating an endless winding road. The challenge increases as the road becomes more complex.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/drift-boss.png",
+    "featured": false,
+    "tags": ["Driving", "Drifting", "Casual"],
+    "features": [
+      "One-button control scheme",
+      "Progressive difficulty increase",
+      "Coin collection system",
+      "Car unlocking progression",
+      "Distance scoring",
+      "Quick session gameplay"
+    ]
+  },
+  {
+    "id": "bitlife",
+    "name": "Bitlife",
+    "desc": "Text-based life simulator where you make choices from birth to death",
+    "longDesc": "Bitlife simulates an entire lifetime through text-based choices. Make decisions about education, career, relationships, and activities that affect your character's health, happiness, and success. Each playthrough creates a unique life story.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/bitlife.png",
+    "featured": false,
+    "tags": ["Simulation", "Life Sim", "Text-based"],
+    "features": [
+      "Life simulation from birth to death",
+      "Career and education paths",
+      "Relationship management",
+      "Random life events",
+      "Multiple endings and outcomes",
+      "Character stat tracking"
+    ]
+  },
+  {
+    "id": "btts",
+    "name": "Big Tower Tiny Square",
+    "desc": "Precision platformer where a tiny square climbs a big tower to rescue a pineapple",
+    "longDesc": "Big Tower Tiny Square is a challenging precision platformer. Navigate through increasingly difficult rooms filled with hazards and obstacles. The checkpoint system allows for quick restarts after failures.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/btts.png",
+    "featured": false,
+    "tags": ["Platformer", "Precision", "Difficult"],
+    "features": [
+      "Precise movement controls",
+      "Checkpoint-based progression",
+      "Increasing level difficulty",
+      "Quick restart mechanics",
+      "Timer tracking",
+      "Minimalist visual design"
+    ]
+  },
+  {
+    "id": "cluster-rush",
+    "name": "Cluster Rush",
+    "desc": "First-person parkour game where you jump between moving trucks",
+    "longDesc": "Cluster Rush puts you on top of speeding trucks in a first-person view. Jump between vehicles, avoid obstacles, and maintain momentum through challenging courses. Timing and spatial awareness are critical.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/cluster-rush.png",
+    "featured": false,
+    "tags": ["Parkour", "First-person", "Action"],
+    "features": [
+      "First-person perspective",
+      "Truck-jumping mechanics",
+      "Multiple challenging levels",
+      "Physics-based movement",
+      "Checkpoint system",
+      "Fast-paced gameplay"
+    ]
+  },
+  {
+    "id": "drift-hunters",
+    "name": "Drift Hunters",
+    "desc": "3D drifting game with realistic physics and customizable cars",
+    "longDesc": "Drift Hunters offers a realistic drifting experience with multiple tracks and cars. Earn points through drifting to upgrade and customize your vehicle's performance and appearance. Features a detailed tuning system.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/drift-hunters.png",
+    "featured": true,
+    "tags": ["Drifting", "Racing", "3D"],
+    "features": [
+      "Realistic drifting physics",
+      "Multiple licensed cars",
+      "Car customization and tuning",
+      "Various track locations",
+      "Performance upgrades",
+      "Free roam exploration"
+    ]
+  },
+  {
+    "id": "drive-mad",
+    "name": "Drive Mad",
+    "desc": "Physics-based driving game with challenging obstacle courses",
+    "longDesc": "Drive Mad combines driving with physics-based puzzles. Navigate vehicles through increasingly complex courses filled with ramps, obstacles, and hazards. Balance speed with control to reach the finish line.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/drive-mad.png",
+    "featured": false,
+    "tags": ["Driving", "Physics", "Puzzle"],
+    "features": [
+      "Physics-based vehicle controls",
+      "Multiple vehicle types",
+      "Progressive level difficulty",
+      "Creative obstacle courses",
+      "Balance and momentum mechanics",
+      "Quick level restarts"
+    ]
+  },
+  {
+    "id": "getaway-shootout",
+    "name": "Getaway Shootout",
+    "desc": "Chaotic multiplayer game where players race to the extraction point",
+    "longDesc": "Getaway Shootout is a side-scrolling action game where 2-4 players compete to reach the getaway vehicle. Use weapons and power-ups while navigating with awkward hopping controls. Features both local and AI opponents.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/getaway.png",
+    "featured": false,
+    "tags": ["Multiplayer", "Action", "Party Game"],
+    "features": [
+      "Local multiplayer up to 4 players",
+      "Hopping movement mechanics",
+      "Weapon and power-up variety",
+      "Multiple maps and locations",
+      "AI opponent support",
+      "Quick match rounds"
+    ]
+  },
+  {
+    "id": "motox3m",
+    "name": "Motox 3M",
+    "desc": "Motorcycle stunt game with physics-based tricks across obstacle courses",
+    "longDesc": "Motox 3M features motorcycle racing through obstacle-filled courses. Perform flips and stunts for bonus points while maintaining speed. Time-based completion adds a competitive element to each level.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/motox3m.png",
+    "featured": true,
+    "tags": ["Motorcycle", "Stunts", "Racing"],
+    "features": [
+      "Physics-based motorcycle controls",
+      "Stunt and flip mechanics",
+      "Time-based challenges",
+      "Multiple themed level packs",
+      "Star rating system",
+      "Checkpoint progression"
+    ]
+  },
+  {
+    "id": "rooftop-snipers",
+    "name": "Rooftop Snipers",
+    "desc": "Two-player dueling game on rooftops with physics-based shooting",
+    "longDesc": "Rooftop Snipers pits two characters against each other on building rooftops. Use simple controls to jump and shoot, with ragdoll physics determining the outcome. First to knock their opponent off wins.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/rooftop-snipers.png",
+    "featured": false,
+    "tags": ["Multiplayer", "Fighting", "Physics"],
+    "features": [
+      "Two-player local gameplay",
+      "Simple two-button controls",
+      "Ragdoll physics mechanics",
+      "Various characters to unlock",
+      "Multiple rooftop locations",
+      "Quick match format"
+    ]
+  },
+  {
+    "id": "slope-2",
+    "name": "Slope 2",
+    "desc": "Sequel to Slope with enhanced graphics and new challenging obstacles",
+    "longDesc": "Slope 2 builds on the original with improved visuals and new gameplay elements. Roll through neon-lit courses at high speeds while avoiding obstacles. Features enhanced physics and more complex level designs.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/slope2.png",
+    "featured": false,
+    "tags": ["Endless Runner", "Reflexes", "Arcade"],
+    "features": [
+      "Enhanced graphics engine",
+      "New obstacle types",
+      "Improved physics system",
+      "Progressive speed increase",
+      "Score multiplier mechanics",
+      "Visual effects and trails"
+    ]
+  },
+  {
+    "id": "snow-rider-3d",
+    "name": "Snow Rider 3D",
+    "desc": "Snowboarding game where you ride down snowy mountains avoiding obstacles",
+    "longDesc": "Snow Rider 3D puts you on a snowboard descending mountain slopes. Navigate through trees, rocks, and jumps while collecting gifts. The game features procedurally generated terrain and increasing difficulty.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/snow-rider.png",
+    "featured": false,
+    "tags": ["Snowboarding", "3D", "Endless Runner"],
+    "features": [
+      "3D snowboarding mechanics",
+      "Procedural terrain generation",
+      "Collectible items system",
+      "Unlockable sleds",
+      "Distance-based scoring",
+      "Winter mountain environment"
+    ]
+  },
+  {
+    "id": "super-hot",
+    "name": "Superhot",
+    "desc": "First-person shooter where time moves only when you move",
+    "longDesc": "Superhot's unique mechanic makes time progress only when the player moves. Plan your actions strategically as bullets move in slow motion, allowing you to dodge and counter. Each level is a puzzle requiring precise timing.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/superhot.png",
+    "featured": true,
+    "tags": ["Shooter", "Puzzle", "Time Manipulation"],
+    "features": [
+      "Time manipulation mechanics",
+      "Strategic combat puzzles",
+      "Minimalist art style",
+      "Multiple weapon types",
+      "Challenge mode variations",
+      "Slow-motion bullet dodging"
+    ]
+  },
+  {
+    "id": "tunnel-rush",
+    "name": "Tunnel Rush",
+    "desc": "High-speed tunnel racing game testing reflexes and reaction time",
+    "longDesc": "Tunnel Rush sends you through a colorful tunnel filled with obstacles at increasing speeds. Dodge barriers by moving left and right while the game's pace accelerates. Features psychedelic visual effects.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/tunnel-rush.png",
+    "featured": false,
+    "tags": ["Endless Runner", "Reflexes", "3D"],
+    "features": [
+      "High-speed tunnel navigation",
+      "Progressive difficulty scaling",
+      "Colorful visual effects",
+      "Simple control scheme",
+      "Rhythm-based gameplay",
+      "Multiple tunnel themes"
+    ]
+  },
+  {
+    "id": "vex-5",
+    "name": "Vex 5",
+    "desc": "Platformer featuring a stick figure navigating deadly obstacle courses",
+    "longDesc": "Vex 5 is the fifth installment in the precision platformer series. Control a stick figure through levels filled with spikes, saws, and moving platforms. Features both standard levels and challenge acts with harder variants.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/vex5.png",
+    "featured": false,
+    "tags": ["Platformer", "Precision", "Stickman"],
+    "features": [
+      "Precision platforming mechanics",
+      "Multiple acts to complete",
+      "Challenge mode variants",
+      "Checkpoint system",
+      "Trophy collection",
+      "Time trial mode"
+    ]
+  },
+  {
+    "id": "worlds-hardest-game",
+    "name": "Worlds Hardest Game",
+    "desc": "Precision maze game requiring perfect timing to avoid moving obstacles",
+    "longDesc": "World's Hardest Game lives up to its name with extremely challenging levels. Guide a red square through mazes while avoiding blue circles. Collect yellow circles and reach the green zone to complete each level.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/hardest-game.png",
+    "featured": false,
+    "tags": ["Puzzle", "Difficult", "Maze"],
+    "features": [
+      "High difficulty level design",
+      "Precise movement required",
+      "Moving obstacle patterns",
+      "Collection objectives",
+      "Death counter tracking",
+      "Progressive level complexity"
+    ]
+  },
+  {
+    "id": "funny-shooter-2",
+    "name": "Funny Shooter 2",
+    "desc": "Chaotic shooter with ragdoll physics and absurd weapons",
+    "longDesc": "Funny Shooter 2 combines first-person shooting with physics-based humor. Fight against waves of enemies using a variety of weapons while ragdoll physics create unpredictable and entertaining combat scenarios.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/funny-shooter2.png",
+    "featured": false,
+    "tags": ["Shooter", "Physics", "Action"],
+    "features": [
+      "Ragdoll physics combat",
+      "Various weapon types",
+      "Wave-based enemy spawns",
+      "Arena gameplay modes",
+      "Score multiplier system",
+      "Upgrade progression"
+    ]
+  },
+  {
+    "id": "monkey-mart",
+    "name": "Monkey Mart",
+    "desc": "Management game where you run a supermarket staffed by monkeys",
+    "longDesc": "Monkey Mart is an idle management game where you control a monkey operating a supermarket. Plant crops, stock shelves, and serve customers. Expand your store and hire more monkeys to automate operations.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/monkey-mart.png",
+    "featured": false,
+    "tags": ["Management", "Idle", "Casual"],
+    "features": [
+      "Store management mechanics",
+      "Crop growing system",
+      "Employee hiring and automation",
+      "Store expansion options",
+      "Customer satisfaction system",
+      "Multiple product types"
+    ]
+  },
+  {
+    "id": "crossy-road",
+    "name": "Crossy Road",
+    "desc": "Endless arcade game where you guide characters across roads and rivers",
+    "longDesc": "Crossy Road modernizes Frogger with voxel graphics. Navigate through traffic, rivers, and train tracks in an endless format. Features numerous unlockable characters with different themes.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/crossy-road.png",
+    "featured": false,
+    "tags": ["Arcade", "Endless", "Casual"],
+    "features": [
+      "Endless crossing gameplay",
+      "Voxel art style",
+      "Multiple character unlocks",
+      "Procedural environment generation",
+      "Simple tap controls",
+      "Daily challenges"
+    ]
+  },
+  {
+    "id": "stickman-hook",
+    "name": "Stickman Hook",
+    "desc": "Physics-based swinging game where a stickman grapples through levels",
+    "longDesc": "Stickman Hook features momentum-based swinging mechanics. Tap to hook onto anchors and build momentum to fly through levels. Timing and rhythm are key to completing each stage efficiently.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/stickman-hook.png",
+    "featured": false,
+    "tags": ["Physics", "Swinging", "Stickman"],
+    "features": [
+      "Grappling hook mechanics",
+      "Momentum-based movement",
+      "Multiple levels to complete",
+      "Character customization",
+      "One-touch controls",
+      "Physics-driven gameplay"
+    ]
+  },
+  {
+    "id": "eggy-car",
+    "name": "Eggy Car",
+    "desc": "Drive a car with an egg on top without breaking it",
+    "longDesc": "Eggy Car challenges you to drive across hilly terrain while balancing an egg on your vehicle. Navigate bumps and jumps carefully to prevent the egg from falling and breaking. Collect coins for upgrades.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/eggy-car.png",
+    "featured": false,
+    "tags": ["Driving", "Physics", "Casual"],
+    "features": [
+      "Balance mechanics",
+      "Hill climbing gameplay",
+      "Egg physics simulation",
+      "Coin collection system",
+      "Vehicle upgrades",
+      "Distance tracking"
+    ]
+  },
+  {
+    "id": "bacon-may-die",
+    "name": "Bacon May Die",
+    "desc": "Action game where bacon fights through waves of enemies",
+    "longDesc": "Bacon May Die is a hack-and-slash game featuring anthropomorphic food characters. Fight through increasingly difficult waves using various weapons and combos. Features both story and endless modes.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/bacon.png",
+    "featured": false,
+    "tags": ["Action", "Fighting", "Arcade"],
+    "features": [
+      "Wave-based combat",
+      "Multiple weapon types",
+      "Combo system",
+      "Character progression",
+      "Boss battles",
+      "Endless survival mode"
+    ]
+  },
+  {
+    "id": "buckshot-roulette",
+    "name": "Buckshot Roulette",
+    "desc": "Russian roulette variant played with a shotgun in a dark atmosphere",
+    "longDesc": "Buckshot Roulette is a tense game of chance with strategic elements. Players take turns with a shotgun that may or may not be loaded. Use items to gain advantages and survive more rounds than your opponent.",
+    "category": "Games",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/buckshot.png",
+    "featured": false,
+    "tags": ["Strategy", "Horror", "Turn-based"],
+    "features": [
+      "Turn-based gameplay",
+      "Risk management mechanics",
+      "Item usage strategy",
+      "Atmospheric presentation",
+      "Multiple rounds system",
+      "Psychological tension"
+    ]
   }
 ]
