@@ -23,7 +23,7 @@
     "desc": "Survive waves of enemies for 10 minutes in this bullet heaven shooter",
     "longDesc": "10 Minutes Till Dawn is a roguelite shooter where you fight increasingly difficult waves of creatures for exactly 10 minutes. Upgrade your character's abilities and weapons as you progress through each run.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/10-minutes.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/10-minutes-till-dawn.png",
     "featured": false,
     "tags": ["Shooter", "Roguelite", "Survival"],
     "features": [
@@ -113,7 +113,7 @@
     "desc": "Space-themed endless runner with gravity-defying mechanics across platforms",
     "longDesc": "Run 3 takes place in space where you run through tunnels that defy gravity. Switch between characters with different abilities, navigate gaps and obstacles, and explore various game modes including story progression.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/run3.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/run-3.png",
     "featured": false,
     "tags": ["Endless Runner", "Space", "Platformer"],
     "features": [
@@ -239,7 +239,7 @@
     "desc": "Chaotic multiplayer game where players race to the extraction point",
     "longDesc": "Getaway Shootout is a side-scrolling action game where 2-4 players compete to reach the getaway vehicle. Use weapons and power-ups while navigating with awkward hopping controls. Features both local and AI opponents.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/getaway.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/getaway-shootout.png",
     "featured": false,
     "tags": ["Multiplayer", "Action", "Party Game"],
     "features": [
@@ -293,7 +293,7 @@
     "desc": "Sequel to Slope with enhanced graphics and new challenging obstacles",
     "longDesc": "Slope 2 builds on the original with improved visuals and new gameplay elements. Roll through neon-lit courses at high speeds while avoiding obstacles. Features enhanced physics and more complex level designs.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/slope2.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/slope-2.png",
     "featured": false,
     "tags": ["Endless Runner", "Reflexes", "Arcade"],
     "features": [
@@ -311,7 +311,7 @@
     "desc": "Snowboarding game where you ride down snowy mountains avoiding obstacles",
     "longDesc": "Snow Rider 3D puts you on a snowboard descending mountain slopes. Navigate through trees, rocks, and jumps while collecting gifts. The game features procedurally generated terrain and increasing difficulty.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/snow-rider.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/snow-rider-3d.png",
     "featured": false,
     "tags": ["Snowboarding", "3D", "Endless Runner"],
     "features": [
@@ -329,7 +329,7 @@
     "desc": "First-person shooter where time moves only when you move",
     "longDesc": "Superhot's unique mechanic makes time progress only when the player moves. Plan your actions strategically as bullets move in slow motion, allowing you to dodge and counter. Each level is a puzzle requiring precise timing.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/superhot.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/super-hot.png",
     "featured": true,
     "tags": ["Shooter", "Puzzle", "Time Manipulation"],
     "features": [
@@ -365,7 +365,7 @@
     "desc": "Platformer featuring a stick figure navigating deadly obstacle courses",
     "longDesc": "Vex 5 is the fifth installment in the precision platformer series. Control a stick figure through levels filled with spikes, saws, and moving platforms. Features both standard levels and challenge acts with harder variants.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/vex5.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/vex-5.png",
     "featured": false,
     "tags": ["Platformer", "Precision", "Stickman"],
     "features": [
@@ -383,7 +383,7 @@
     "desc": "Precision maze game requiring perfect timing to avoid moving obstacles",
     "longDesc": "World's Hardest Game lives up to its name with extremely challenging levels. Guide a red square through mazes while avoiding blue circles. Collect yellow circles and reach the green zone to complete each level.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/hardest-game.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/worlds-hardest-game.png",
     "featured": false,
     "tags": ["Puzzle", "Difficult", "Maze"],
     "features": [
@@ -401,7 +401,7 @@
     "desc": "Chaotic shooter with ragdoll physics and absurd weapons",
     "longDesc": "Funny Shooter 2 combines first-person shooting with physics-based humor. Fight against waves of enemies using a variety of weapons while ragdoll physics create unpredictable and entertaining combat scenarios.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/funny-shooter2.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/funny-shooter-2.png",
     "featured": false,
     "tags": ["Shooter", "Physics", "Action"],
     "features": [
@@ -491,7 +491,7 @@
     "desc": "Action game where bacon fights through waves of enemies",
     "longDesc": "Bacon May Die is a hack-and-slash game featuring anthropomorphic food characters. Fight through increasingly difficult waves using various weapons and combos. Features both story and endless modes.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/bacon.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/bacon-may-die.png",
     "featured": false,
     "tags": ["Action", "Fighting", "Arcade"],
     "features": [
@@ -509,7 +509,7 @@
     "desc": "Russian roulette variant played with a shotgun in a dark atmosphere",
     "longDesc": "Buckshot Roulette is a tense game of chance with strategic elements. Players take turns with a shotgun that may or may not be loaded. Use items to gain advantages and survive more rounds than your opponent.",
     "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/buckshot.png",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/buckshot-roulette.png",
     "featured": false,
     "tags": ["Strategy", "Horror", "Turn-based"],
     "features": [
