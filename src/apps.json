@@ -6,6 +6,7 @@
     "longDesc": "10 Minutes Till Dawn is a roguelite shooter where you fight increasingly difficult waves of creatures for exactly 10 minutes. Upgrade your character's abilities and weapons as you progress through each run.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/10-minutes-till-dawn.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Shooter", "Roguelite", "Survival"],
     "features": [
@@ -24,6 +25,7 @@
     "longDesc": "2048 Cupcakes is a themed version of the classic 2048 puzzle game. Combine matching cupcakes to create new varieties and reach the ultimate cupcake tile.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/2048-cupcakes.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Casual", "Match"],
     "features": [
@@ -42,6 +44,7 @@
     "longDesc": "An extreme version of 2048 that continues far beyond the original game's limit. Combine tiles all the way to 9007199254740992, the maximum safe integer in JavaScript.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/9007199254740992.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Challenge", "Math"],
     "features": [
@@ -60,6 +63,7 @@
     "longDesc": "99 Balls is a brick breaker game where you aim and shoot balls to destroy numbered blocks. Collect more balls and break all blocks before they reach the bottom.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/99-balls.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Arcade", "Casual", "Breakout"],
     "features": [
@@ -78,6 +82,7 @@
     "longDesc": "A Small World Cup is a hilarious physics-based soccer game where you control a ragdoll player using just one button. Time your jumps to kick the ball and score goals in this chaotic world cup tournament.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/a-small-world-cup.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sports", "Physics", "Funny"],
     "features": [
@@ -96,6 +101,7 @@
     "longDesc": "Achievement Unlocked is a humorous meta-game where the entire point is to unlock achievements. Control an elephant in a small room and discover creative ways to earn all the achievements.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/achievement-unlocked.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Casual", "Funny", "Exploration"],
     "features": [
@@ -114,6 +120,7 @@
     "longDesc": "Animal Crossing: Wild World is the Nintendo DS classic where you create your own village, interact with animal neighbors, collect items, fish, catch bugs, and live a peaceful life in real-time.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/animal-crossing-wild-world.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Simulation", "Casual", "Social"],
     "features": [
@@ -132,6 +139,7 @@
     "longDesc": "Aqua Park.io is a multiplayer racing game where you slide down colorful water park slides, taking shortcuts and avoiding obstacles to reach the pool first.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/aqua-park-io.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "Multiplayer", "Casual"],
     "features": [
@@ -150,6 +158,7 @@
     "longDesc": "Backrooms 2D is a horror exploration game based on the Backrooms creepypasta. Navigate through endless yellow hallways and try to survive the entities lurking in this 2D perspective.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/backrooms-2d.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "Exploration", "Survival"],
     "features": [
@@ -168,6 +177,7 @@
     "longDesc": "Backrooms 3D brings the unsettling Backrooms experience to life in first-person 3D. Navigate the maze-like office spaces while avoiding entities and searching for an escape.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/backrooms-3d.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "3D", "Exploration"],
     "features": [
@@ -186,6 +196,7 @@
     "longDesc": "Bacon May Die is a fast-paced fighting game where you play as a piece of bacon battling through waves of enemies. Use weapons, dodge attacks, and survive as long as possible.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/bacon-may-die.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Action", "Fighting", "Arcade"],
     "features": [
@@ -204,6 +215,7 @@
     "longDesc": "Bad Ice Cream 2 is the sequel to the popular puzzle game. Control ice cream characters, create and break ice blocks, collect fruits, and avoid enemies in challenging mazes.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/bad-icecream-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Multiplayer", "Arcade"],
     "features": [
@@ -222,6 +234,7 @@
     "longDesc": "Bad Ice Cream 3 continues the frozen fun with new levels, mechanics, and challenges. Team up or play solo to collect fruit while managing ice blocks and avoiding monsters.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/bad-icecream-3.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Multiplayer", "Arcade"],
     "features": [
@@ -240,6 +253,7 @@
     "longDesc": "Bad Ice Cream is the original game where you control ice cream characters in challenging mazes. Create ice barriers to block enemies and collect all the fruit to complete each level.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/bad-icecream.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Multiplayer", "Arcade"],
     "features": [
@@ -258,6 +272,7 @@
     "longDesc": "Bad Parenting 1: Mr. Red Face is a psychological horror game that tells the story of a child who receives visits from the mysterious Mr. Red Face, uncovering dark family secrets.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/bad-parenting.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "Story", "Psychological"],
     "features": [
@@ -276,6 +291,7 @@
     "longDesc": "Bad Piggies is a puzzle game from Rovio where you build creative vehicles for the pigs. Use various parts to construct contraptions that can navigate through challenging terrain.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/bad-piggies.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Physics", "Building"],
     "features": [
@@ -294,6 +310,7 @@
     "longDesc": "Baldi's Basics in Education and Learning is a horror game disguised as a '90s edutainment title. Collect notebooks while avoiding Baldi and other strange characters in a surreal school.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/baldis-basics.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "Puzzle", "Survival"],
     "features": [
@@ -312,6 +329,7 @@
     "longDesc": "Ball Maze is a physics puzzle game where you tilt and navigate a ball through complex 3D mazes. Avoid holes, collect stars, and reach the finish in the shortest time possible.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/ball-maze.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "3D", "Physics"],
     "features": [
@@ -330,6 +348,7 @@
     "longDesc": "Basket Random is a hilarious basketball game with constantly changing physics, court layouts, and rules. Adapt to crazy conditions and score more baskets than your opponent.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/basket-random.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sports", "Multiplayer", "Funny"],
     "features": [
@@ -348,6 +367,7 @@
     "longDesc": "Basketball Legends lets you play as famous basketball stars in fast-paced 2v2 matches. Perform special moves, dunks, and compete in various game modes.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/basketball-legends.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sports", "Multiplayer", "Arcade"],
     "features": [
@@ -366,6 +386,7 @@
     "longDesc": "Basketball Stars is a competitive basketball game featuring 1v1 matches, tournaments, and various game modes. Master dribbling, shooting, and defense to become a champion.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/basketball-stars.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sports", "Multiplayer", "Competitive"],
     "features": [
@@ -384,6 +405,7 @@
     "longDesc": "Battle Karts combines kart racing with arena combat. Race around tracks while using weapons and power-ups to attack opponents and secure first place.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/battle-karts.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "Multiplayer", "Action"],
     "features": [
@@ -402,6 +424,7 @@
     "longDesc": "Navigate through a challenging vertical tower using Flappy Bird-style controls. Time your flaps perfectly to avoid obstacles and climb to the top in this precision platformer.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/big-flappy-tower-tiny-square.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Arcade"],
     "features": [
@@ -420,6 +443,7 @@
     "longDesc": "Big Ice Tower Tiny Square is a challenging platformer where you dash and jump through an icy tower. Master momentum and precise timing to overcome deadly obstacles.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/big-ice-tower-tiny-square.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Speed"],
     "features": [
@@ -438,6 +462,7 @@
     "longDesc": "Navigate through a neon tower filled with gravity-defying challenges. Use precise controls and timing to overcome obstacles in this visually striking platformer.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/big-neon-tower-tiny-square.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Neon"],
     "features": [
@@ -456,6 +481,7 @@
     "longDesc": "Big Tower Tiny Square 2 expands on the original with new mechanics, longer levels, and even more challenging obstacles. Dash and jump your way to the top of the tower.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/big-tower-tiny-square-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Speed"],
     "features": [
@@ -474,6 +500,7 @@
     "longDesc": "Block Blast 2 is an improved version of the block-matching puzzle game. Place shapes on the grid to create and clear lines, with new mechanics and challenges.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/block-blast-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Casual", "Strategy"],
     "features": [
@@ -492,6 +519,7 @@
     "longDesc": "Block Blast is a relaxing puzzle game where you place blocks on a grid to clear lines and score points. Plan your moves carefully to achieve high scores.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/block-blast.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Casual", "Strategy"],
     "features": [
@@ -510,6 +538,7 @@
     "longDesc": "Blood Money is an intense action game where you battle through enemy waves to earn money. Upgrade your weapons and abilities between rounds to survive increasingly difficult challenges.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/blood-money.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Action", "Shooter", "Upgrade"],
     "features": [
@@ -528,6 +557,7 @@
     "longDesc": "Bloxorz is a challenging puzzle game where you roll a rectangular block through 3D levels, trying to get it to fall into the goal hole without falling off the edge.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/bloxorz.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "3D", "Strategy"],
     "features": [
@@ -546,6 +576,7 @@
     "longDesc": "Brawl Stars is a multiplayer battle game where you compete in various game modes with unique characters called Brawlers. Team up and fight in 3v3 battles or solo showdowns.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/brawl-stars.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Multiplayer", "Action", "MOBA"],
     "features": [
@@ -564,6 +595,7 @@
     "longDesc": "Buckshot Roulette is a tabletop horror game where you play Russian roulette with a shotgun against a dealer. Use items strategically and manage risk in this tense psychological thriller.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/buckshot-roulette.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "Strategy", "Psychological"],
     "features": [
@@ -582,6 +614,7 @@
     "longDesc": "Burrito Bison Launcha Libre is an action-packed launcher game where you bounce through levels, smashing gummy bears and collecting cash to upgrade your abilities.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/burrito-bison-launch-alibre.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Action", "Upgrade", "Casual"],
     "features": [
@@ -600,6 +633,7 @@
     "longDesc": "Celeste 2 continues the precision platforming action with new mechanics and challenges. Climb the mountain while mastering advanced movement techniques.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/celeste-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Precision"],
     "features": [
@@ -618,6 +652,7 @@
     "longDesc": "Celeste is a challenging platformer about climbing Celeste Mountain. Master the dash mechanic and overcome difficult obstacles in this emotional journey about mental health and perseverance.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/celeste.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Story"],
     "features": [
@@ -636,6 +671,7 @@
     "longDesc": "Cluster Rush is a first-person parkour game where you run and jump across moving trucks on a highway. Time your jumps perfectly to avoid falling and reach the finish line.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/cluster-rush.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Parkour", "3D", "Speed"],
     "features": [
@@ -654,6 +690,7 @@
     "longDesc": "Cookie Clicker is the original idle game where you click to bake cookies and buy upgrades to automate production. Build a massive cookie empire with grandmas, farms, and time machines.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/cookie-clicker.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Idle", "Clicker", "Strategy"],
     "features": [
@@ -672,6 +709,7 @@
     "longDesc": "Core Ball is a precision timing game where you shoot balls to attach them to a rotating core. Avoid hitting other attached balls as the difficulty increases with each level.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/core-ball.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Timing", "Arcade"],
     "features": [
@@ -690,6 +728,7 @@
     "longDesc": "Crazy Cars is an arcade racing game featuring high-speed tracks, stunts, and powerful vehicles. Use nitro boosts and perform tricks to win races.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/crazy-cars.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "3D", "Arcade"],
     "features": [
@@ -708,6 +747,7 @@
     "longDesc": "Crazy Cattle 3D is a quirky game where you guide cattle through 3D environments filled with obstacles. Manage your herd and reach the goal without losing too many animals.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/crazy-cattle-3d.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["3D", "Casual", "Strategy"],
     "features": [
@@ -726,6 +766,7 @@
     "longDesc": "Crossy Road is an endless arcade hopper where you guide a chicken across busy roads, rivers, and train tracks. Unlock new characters and achieve high scores.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/crossy-road.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Arcade", "Endless", "Casual"],
     "features": [
@@ -744,6 +785,7 @@
     "longDesc": "Deltarune is a role-playing game by Toby Fox featuring a unique battle system, memorable characters, and an engaging story. Explore a dark world with Kris and their friends.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/deltarune.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["RPG", "Story", "Adventure"],
     "features": [
@@ -762,6 +804,7 @@
     "longDesc": "Drift Boss is a one-button drifting game where you navigate an endless winding road. Time your drifts perfectly to stay on track and achieve the longest distance.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/drift-boss.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "Endless", "Casual"],
     "features": [
@@ -780,6 +823,7 @@
     "longDesc": "Drive Mad is a physics-based driving game where you navigate vehicles through increasingly difficult obstacle courses. Balance speed and control to reach the finish line.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/drive-mad.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "Physics", "Challenge"],
     "features": [
@@ -798,6 +842,7 @@
     "longDesc": "Duck Life 2 is a training simulation where you raise and train a duck through various mini-games. Improve your duck's stats and compete in races to become the champion.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/duck-life-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Simulation", "Racing", "Casual"],
     "features": [
@@ -816,6 +861,7 @@
     "longDesc": "Duck Life 3 introduces evolution mechanics to the duck training series. Train your duck, evolve it into different forms, and compete in races across various environments.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/duck-life-3.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Simulation", "Racing", "Evolution"],
     "features": [
@@ -834,6 +880,7 @@
     "longDesc": "Duck Life is the original game where you train a duckling through various mini-games to improve its running, swimming, flying, and energy. Compete in races to win trophies.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/duck-life.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Simulation", "Racing", "Casual"],
     "features": [
@@ -852,6 +899,7 @@
     "longDesc": "Eggy Car is a physics driving game where you transport a fragile egg across hilly terrain. Balance speed and caution to travel as far as possible without breaking the egg.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/eggy-car.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Physics", "Driving", "Casual"],
     "features": [
@@ -870,6 +918,7 @@
     "longDesc": "Fireboy and Watergirl is a cooperative puzzle game where you control two characters with opposite elemental properties. Work together to solve puzzles and reach the exit.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/fire-boy-and-water-girl.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Co-op", "Platformer"],
     "features": [
@@ -888,6 +937,7 @@
     "longDesc": "Flappy Bird is the iconic endless game where you tap to make a bird fly through gaps in pipes. Simple controls but extremely challenging gameplay made this a viral sensation.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/flappy-bird.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Arcade", "Endless", "Challenge"],
     "features": [
@@ -906,6 +956,7 @@
     "longDesc": "Five Nights at Freddy's 2 is a horror game where you work night shift at Freddy Fazbear's Pizza. Use cameras, flashlights, and a Freddy mask to survive against possessed animatronics.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/fnaf-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "Survival", "Strategy"],
     "features": [
@@ -924,6 +975,7 @@
     "longDesc": "Five Nights at Freddy's 3 takes place in a horror attraction. Manage ventilation, audio, and camera systems to survive against Springtrap and phantom animatronics.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/fnaf-3.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "Survival", "Strategy"],
     "features": [
@@ -942,6 +994,7 @@
     "longDesc": "Five Nights at Freddy's is a survival horror game where you monitor security cameras and manage power to survive against animatronics that come alive at night.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/fnaf.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "Survival", "Strategy"],
     "features": [
@@ -960,6 +1013,7 @@
     "longDesc": "Five Nights at Winston's is a fan-made horror game inspired by Five Nights at Freddy's. Survive against animatronic characters with new mechanics and challenges.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/fnaw.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "Survival", "Fan-made"],
     "features": [
@@ -978,6 +1032,7 @@
     "longDesc": "Free Rider is a physics-based bike game where you can draw custom tracks and ride them. Create challenging courses or play community-made levels.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/free-rider.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Physics", "Creative", "Racing"],
     "features": [
@@ -996,6 +1051,7 @@
     "longDesc": "Funny Shooter 2 is a humorous first-person shooter with exaggerated ragdoll physics, silly enemies, and creative weapons. Battle through waves in this lighthearted action game.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/funny-shooter-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Shooter", "3D", "Funny"],
     "features": [
@@ -1014,6 +1070,7 @@
     "longDesc": "Geometry Dash 3D brings the rhythm-based platforming action into 3D space. Navigate through levels synchronized to music while avoiding obstacles.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/geometry-dash-3d.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Rhythm", "3D"],
     "features": [
@@ -1032,6 +1089,7 @@
     "longDesc": "Geometry Dash Lite is the free version of the popular rhythm game. Jump and fly through dangerous passages and obstacles in sync with the music.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/geometry-dash-lite.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Rhythm", "Challenge"],
     "features": [
@@ -1050,6 +1108,7 @@
     "longDesc": "Granny is a first-person horror game where you're trapped in a house and must escape within 5 days. Stay quiet and hide from Granny who hears everything.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/granny.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Horror", "Survival", "Stealth"],
     "features": [
@@ -1068,6 +1127,7 @@
     "longDesc": "Grow a Garden is a peaceful simulation game where you plant seeds, water plants, and watch your garden bloom. Create a beautiful garden at your own pace.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/grow-a-garden.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Simulation", "Casual", "Relaxing"],
     "features": [
@@ -1086,6 +1146,7 @@
     "longDesc": "Grand Theft Auto 2 is the classic top-down action game set in a futuristic city. Complete missions, steal cars, and cause chaos in this retro open-world experience.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/gta-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Action", "Open-world", "Classic"],
     "features": [
@@ -1104,6 +1165,7 @@
     "longDesc": "Happy Wheels is a physics-based game featuring ragdoll characters navigating deadly obstacle courses. Choose different characters and vehicles in this notoriously brutal game.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/happy-wheels.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Physics", "Ragdoll", "Challenge"],
     "features": [
@@ -1122,6 +1184,7 @@
     "longDesc": "Hextris is a puzzle game that combines Tetris with a hexagonal grid. Rotate the hexagon to match falling blocks and create lines in this addictive twist on classic gameplay.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/hextris.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Arcade", "Match"],
     "features": [
@@ -1140,6 +1203,7 @@
     "longDesc": "1 is a unique puzzle game that reverses the 2048 concept. Start with 2048 tiles and combine them to create smaller numbers, working your way down to the number 1.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/l.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Strategy", "Math"],
     "features": [
@@ -1158,6 +1222,7 @@
     "longDesc": "Learn to Fly 2 is an upgrade game where you launch a penguin and use various gadgets to help it fly. Earn money to buy better equipment and reach greater distances.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/learn-to-fly-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Upgrade", "Physics", "Casual"],
     "features": [
@@ -1176,6 +1241,7 @@
     "longDesc": "Learn to Fly 3 continues the penguin's quest for flight with new mechanics, upgrades, and challenges. Build rockets, complete missions, and achieve new flight records.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/learn-to-fly-3.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Upgrade", "Physics", "Strategy"],
     "features": [
@@ -1194,6 +1260,7 @@
     "longDesc": "Learn to Fly is the original game where a penguin tries to prove penguins can fly. Launch from a ramp, glide through the air, and upgrade your equipment to fly farther.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/learn-to-fly.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Upgrade", "Physics", "Casual"],
     "features": [
@@ -1212,6 +1279,7 @@
     "longDesc": "Minecraft 1.5.2 is a browser version of the classic sandbox game. Mine resources, craft items, build structures, and survive in this iconic creative game.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/minecraft-1.5.2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sandbox", "Building", "Survival"],
     "features": [
@@ -1230,6 +1298,7 @@
     "longDesc": "Minecraft Astra Client is a modified version of Minecraft with enhanced features, optimizations, and quality-of-life improvements for browser play.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/minecraft-astra-client.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sandbox", "Building", "Modified"],
     "features": [
@@ -1248,6 +1317,7 @@
     "longDesc": "Minecraft Indev is one of the earliest development versions of Minecraft. Experience the game in its primitive form with basic mechanics and limited features.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/minecraft-indev.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sandbox", "Classic", "Retro"],
     "features": [
@@ -1266,6 +1336,7 @@
     "longDesc": "Minecraft Parkour features custom parkour maps where you jump across blocks and obstacles. Test your precision jumping skills in various challenging courses.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/minecraft-parkour.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Parkour", "Challenge", "Minecraft"],
     "features": [
@@ -1284,6 +1355,7 @@
     "longDesc": "Minecraft Resent Client is a feature-rich browser client for Minecraft with various mods, optimizations, and customization options.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/minecraft-resent-client.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sandbox", "Building", "Modified"],
     "features": [
@@ -1302,6 +1374,7 @@
     "longDesc": "Minecraft Tower Defence combines tower defense mechanics with Minecraft aesthetics. Place defensive blocks and fight off waves of mobs trying to reach your base.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/minecraft-tower-defence.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Tower Defense", "Strategy", "Minecraft"],
     "features": [
@@ -1320,6 +1393,7 @@
     "longDesc": "Minecraft Zeta Client is an advanced browser version of Minecraft with enhanced features, performance improvements, and additional functionality.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/minecraft-zeta-client.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sandbox", "Building", "Modified"],
     "features": [
@@ -1338,6 +1412,7 @@
     "longDesc": "Moto X3M 2 is a motorcycle stunt racing game with challenging courses filled with ramps, explosions, and hazards. Perform flips and reach the finish line quickly.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/motox3m-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "Stunts", "Physics"],
     "features": [
@@ -1356,6 +1431,7 @@
     "longDesc": "Moto X3M 3 brings more extreme motorcycle racing with new levels, obstacles, and challenges. Master your bike and complete increasingly difficult courses.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/motox3m-3.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "Stunts", "Physics"],
     "features": [
@@ -1374,6 +1450,7 @@
     "longDesc": "Moto X3M Spooky Land is a Halloween edition featuring spooky-themed levels with pumpkins, ghosts, and haunted obstacles. Race through creepy courses on your bike.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/motox3m-spookyland.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "Halloween", "Stunts"],
     "features": [
@@ -1392,6 +1469,7 @@
     "longDesc": "Moto X3M Winter takes the stunt racing to snowy landscapes. Navigate through ice, snowmen, and winter obstacles while performing flips and tricks.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/motox3m-winter.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "Winter", "Stunts"],
     "features": [
@@ -1410,6 +1488,7 @@
     "longDesc": "Moto X3M is the original motorcycle racing game with intense stunts and challenging obstacles. Race through levels, perform flips, and achieve the best times.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/motox3m.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Racing", "Stunts", "Physics"],
     "features": [
@@ -1428,6 +1507,7 @@
     "longDesc": "Plants vs Zombies is a classic tower defense game where you use various plants to defend against waves of zombies. Plant sunflowers, shooters, and defensive plants strategically.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/plants-vs-zombies.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Tower Defense", "Strategy", "Classic"],
     "features": [
@@ -1446,6 +1526,7 @@
     "longDesc": "Retro Bowl is an American football game with retro graphics. Manage your team, call plays, and lead them to championship glory in this addictive sports game.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/retro-bowl.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sports", "Management", "Retro"],
     "features": [
@@ -1464,6 +1545,7 @@
     "longDesc": "Short Life is a brutal platformer where you navigate through levels filled with deadly traps. Watch your character suffer hilarious deaths as you try to reach the exit.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/short-life.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Ragdoll", "Challenge"],
     "features": [
@@ -1482,6 +1564,7 @@
     "longDesc": "Slither.io is a multiplayer game where you control a snake, eating glowing orbs to grow longer. Trap other players and consume their remains to become the biggest snake.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/slither-io.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Multiplayer", ".io", "Arcade"],
     "features": [
@@ -1500,6 +1583,7 @@
     "longDesc": "Slope 3 is an endless running game where you control a ball rolling down a slope at increasing speeds. Avoid obstacles and stay on the platform as long as possible.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/slope-3.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Endless", "3D", "Speed"],
     "features": [
@@ -1518,6 +1602,7 @@
     "longDesc": "Slow Roads is a meditative driving game where you cruise through beautiful procedurally generated landscapes. No objectives, just peaceful driving and scenery.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/slow-roads.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Driving", "Relaxing", "Endless"],
     "features": [
@@ -1536,6 +1621,7 @@
     "longDesc": "Snow Rider 3D is an endless snowboarding game where you ride down snowy mountains, avoiding obstacles and collecting gifts. See how far you can go.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/snow-rider-3d.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sports", "3D", "Endless"],
     "features": [
@@ -1554,6 +1640,7 @@
     "longDesc": "Soccer Random is a hilarious soccer game where physics and field conditions change randomly each match. Adapt to crazy scenarios and score more goals than your opponent.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/soccer-random.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sports", "Multiplayer", "Funny"],
     "features": [
@@ -1572,6 +1659,7 @@
     "longDesc": "Subway Surfers is an endless running game where you dash through subway tracks, dodging trains and obstacles while collecting coins and power-ups.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/subway-surfers.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Endless", "Runner", "Arcade"],
     "features": [
@@ -1590,6 +1678,7 @@
     "longDesc": "SUPERHOT is a unique FPS where time only moves when you move. Plan your actions carefully and dodge bullets in slow motion in this mind-bending shooter.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/super-hot.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Shooter", "Puzzle", "Innovative"],
     "features": [
@@ -1608,6 +1697,7 @@
     "longDesc": "The Binding of Isaac is a randomly generated dungeon crawler with RPG elements. Battle through floors filled with monsters, collect items, and face challenging bosses.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/the-binding-of-isaac.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Roguelike", "Dungeon Crawler", "Dark"],
     "features": [
@@ -1626,6 +1716,7 @@
     "longDesc": "The Legend of Zelda: The Minish Cap is a classic adventure where Link can shrink to tiny size. Explore dungeons, solve puzzles, and save Hyrule from evil.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/the-legend-of-zelda-the-minish-cap.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Adventure", "RPG", "Classic"],
     "features": [
@@ -1644,6 +1735,7 @@
     "longDesc": "The World's Hardest Game lives up to its name. Navigate a red square through mazes filled with blue circles. One touch means starting over in this brutally difficult game.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/the-worlds-hardest-game.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Challenge", "Precision"],
     "features": [
@@ -1662,6 +1754,7 @@
     "longDesc": "Tiny Fishing is a casual fishing game where you cast your line, catch fish, and upgrade your equipment. Relax and see what rare fish you can discover.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/tiny-fishing.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Casual", "Fishing", "Upgrade"],
     "features": [
@@ -1680,6 +1773,7 @@
     "longDesc": "ULTRAKILL is a fast-paced retro FPS where you heal by dealing damage. Combine weapons creatively and style on enemies in this blood-fueled arena shooter.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/ultrakill.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Shooter", "FPS", "Fast-paced"],
     "features": [
@@ -1698,6 +1792,7 @@
     "longDesc": "Vex 2 is a challenging platformer where you control a stickman through levels filled with spikes, saws, and hazards. Master the controls to complete each act.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/vex-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Stickman"],
     "features": [
@@ -1716,6 +1811,7 @@
     "longDesc": "Vex 3 continues the challenging platforming with new obstacles and mechanics. Run, jump, slide, and swim through increasingly difficult levels.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/vex-3.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Stickman"],
     "features": [
@@ -1734,6 +1830,7 @@
     "longDesc": "Vex 6 brings more intense platforming action with new mechanics, obstacles, and levels. Navigate through dangerous terrain as a stickman acrobat.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/vex-6.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Stickman"],
     "features": [
@@ -1752,6 +1849,7 @@
     "longDesc": "Vex 7 is the newest entry featuring fresh obstacles, mechanics, and even more challenging platforming. Master new abilities and overcome deadly hazards.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/vex-7.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Stickman"],
     "features": [
@@ -1770,6 +1868,7 @@
     "longDesc": "Vex 8 is the most recent installment with the most polished mechanics and challenging levels yet. Experience refined stickman platforming at its best.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/vex-8.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Stickman"],
     "features": [
@@ -1788,6 +1887,7 @@
     "longDesc": "Vex is the original stickman platformer that started the series. Navigate through deadly obstacles, spikes, and hazards in this precision-based game.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/vex.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Platformer", "Challenge", "Stickman"],
     "features": [
@@ -1806,6 +1906,7 @@
     "longDesc": "Volley Random is a hilarious volleyball game where physics and player abilities change randomly. Adapt to bizarre conditions and score points in this chaotic sports game.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/volly-random.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Sports", "Multiplayer", "Funny"],
     "features": [
@@ -1824,6 +1925,7 @@
     "longDesc": "Word Wonders is a word puzzle game where you form words from letters to fill crossword-style grids. Expand your vocabulary and solve increasingly challenging puzzles.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/word-wonders.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Word", "Casual"],
     "features": [
@@ -1842,6 +1944,7 @@
     "longDesc": "Wordle is the viral word puzzle game where you guess a five-letter word in six tries. Use the colored feedback to narrow down the correct word.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/wordle.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Puzzle", "Word", "Daily"],
     "features": [
@@ -1860,6 +1963,7 @@
     "longDesc": "YoHoHo.io is a pirate-themed battle royale where you fight other pirates on islands. Collect coins, grow bigger, and become the last pirate standing.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/yohoho-io.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Multiplayer", ".io", "Battle Royale"],
     "features": [
@@ -1878,6 +1982,7 @@
     "longDesc": "You vs 100 Skibidi Toilets is a wave-based shooter where you fight off hordes of Skibidi Toilet enemies. Survive as long as possible against increasing numbers.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/you-vs-100-skibidi-toilets.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Shooter", "Meme", "Survival"],
     "features": [
@@ -1896,6 +2001,7 @@
     "longDesc": "Zombocalypse 2 is a side-scrolling action game where you fight endless zombie hordes. Use various weapons, unlock upgrades, and survive as long as possible.",
     "category": "Games",
     "iconUrl": "https://apps.cdn.cgamz.online/icons/zombocalypse-2.png",
+    "directory": "games/",
     "featured": false,
     "tags": ["Action", "Zombies", "Survival"],
     "features": [
