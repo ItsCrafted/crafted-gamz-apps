@@ -1082,25 +1082,7 @@
       "Practice mode"
     ]
   },
-  {
-    "id": "geometry-dash-lite",
-    "name": "Geometry Dash Lite",
-    "desc": "Free version of the rhythm-based platforming classic",
-    "longDesc": "Geometry Dash Lite is the free version of the popular rhythm game. Jump and fly through dangerous passages and obstacles in sync with the music.",
-    "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/geometry-dash-lite.png",
-    "directory": "games/",
-    "featured": false,
-    "tags": ["Platformer", "Rhythm", "Challenge"],
-    "features": [
-      "Rhythm-based platforming",
-      "Music integration",
-      "15+ levels",
-      "Practice mode",
-      "Achievement system",
-      "One-touch gameplay"
-    ]
-  },
+
   {
     "id": "granny",
     "name": "Granny",
@@ -1292,25 +1274,6 @@
     ]
   },
   {
-    "id": "minecraft-astra-client",
-    "name": "Minecraft Astra Client",
-    "desc": "Enhanced Minecraft client with additional features",
-    "longDesc": "Minecraft Astra Client is a modified version of Minecraft with enhanced features, optimizations, and quality-of-life improvements for browser play.",
-    "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/minecraft-astra-client.png",
-    "directory": "games/",
-    "featured": false,
-    "tags": ["Sandbox", "Building", "Modified"],
-    "features": [
-      "Enhanced client features",
-      "Performance optimizations",
-      "Quality-of-life improvements",
-      "Minecraft gameplay",
-      "Browser compatibility",
-      "Additional tools"
-    ]
-  },
-  {
     "id": "minecraft-indev",
     "name": "Minecraft Indev",
     "desc": "Very early development version of Minecraft",
@@ -1346,25 +1309,6 @@
       "Checkpoint system",
       "Precision gameplay",
       "Time trials"
-    ]
-  },
-  {
-    "id": "minecraft-resent-client",
-    "name": "Minecraft Resent Client",
-    "desc": "Popular Minecraft client for browser with mods",
-    "longDesc": "Minecraft Resent Client is a feature-rich browser client for Minecraft with various mods, optimizations, and customization options.",
-    "category": "Games",
-    "iconUrl": "https://apps.cdn.cgamz.online/icons/minecraft-resent-client.png",
-    "directory": "games/",
-    "featured": false,
-    "tags": ["Sandbox", "Building", "Modified"],
-    "features": [
-      "Modded client",
-      "Performance boosts",
-      "Customization options",
-      "Additional features",
-      "Browser-optimized",
-      "Enhanced UI"
     ]
   },
   {
