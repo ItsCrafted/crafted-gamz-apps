@@ -1179,7 +1179,7 @@
     ]
   },
   {
-    "id": "l",
+    "id": "1",
     "name": "1",
     "desc": "Reverse 2048 where you combine tiles from 2048 down to 1",
     "longDesc": "1 is a unique puzzle game that reverses the 2048 concept. Start with 2048 tiles and combine them to create smaller numbers, working your way down to the number 1.",
