@@ -1956,5 +1956,22 @@
       "Combo mechanics",
       "High score tracking"
     ]
+  },
+    {
+    "id": "hyperspeed",
+    "name": "Hyperspeed",
+    "desc": "A Fast Internet Browser",
+    "longDesc": "Hyperspeed is a fast and new pr0xy browser, using ultraviolet and scramjet. This allows you to evade restrictions and get what you need.",
+    "category": "Internet",
+    "iconUrl": "https://apps.cdn.cgamz.online/icons/hyperspeed.png",
+    "directory": "internet/",
+    "featured": false,
+    "tags": ["Pr0xy", "Browser", "Ultraviolet"],
+    "features": [
+      "Ultraviolet",
+      "Scramjet",
+      "Pr0xy",
+      "Browser"
+    ]
   }
 ]
